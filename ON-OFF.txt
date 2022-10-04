@@ -1,1 +1,1 @@
-cybersh="off"
+cybersh="OFF"
