@@ -1,3 +1,4 @@
+line = "=========="
 def logo():
 	print("This is logo")
 def banner():
